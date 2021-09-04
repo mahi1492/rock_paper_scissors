@@ -1,5 +1,5 @@
 import random
-print("\n\n")
+print("\n")
 
 rock = '''
     _______
